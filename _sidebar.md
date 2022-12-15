@@ -1,0 +1,5 @@
+* [Home](/)
+* [Guide](guide.md)
+* [Edit Game Properties](properties.md)
+* [Customize Game Resources](resources.md)
+* [Support Info](support.md)
